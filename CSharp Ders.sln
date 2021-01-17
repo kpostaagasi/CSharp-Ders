@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class", "Class\Class.csproj", "{0EAAFD64-C348-4725-A018-646492F6CBB7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dongu", "Dongu\Dongu.csproj", "{910C4152-B025-4AF0-86DE-3D63C6B0AFBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Baslangic", "Baslangic\Baslangic.csproj", "{10F7ED7F-2BF8-49A6-A0EF-32D74E6A24AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EAAFD64-C348-4725-A018-646492F6CBB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EAAFD64-C348-4725-A018-646492F6CBB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EAAFD64-C348-4725-A018-646492F6CBB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EAAFD64-C348-4725-A018-646492F6CBB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{910C4152-B025-4AF0-86DE-3D63C6B0AFBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{910C4152-B025-4AF0-86DE-3D63C6B0AFBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{910C4152-B025-4AF0-86DE-3D63C6B0AFBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{910C4152-B025-4AF0-86DE-3D63C6B0AFBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10F7ED7F-2BF8-49A6-A0EF-32D74E6A24AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10F7ED7F-2BF8-49A6-A0EF-32D74E6A24AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10F7ED7F-2BF8-49A6-A0EF-32D74E6A24AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10F7ED7F-2BF8-49A6-A0EF-32D74E6A24AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E5BD84A-8386-4B1C-8711-E297399D3026}
+	EndGlobalSection
+EndGlobal
